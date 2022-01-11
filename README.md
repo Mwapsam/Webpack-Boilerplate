@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-Do-List App
+## Webpack Boilerplate
 
-This is my to-do list website built with html, css and JavaScript. In this project I used Webpack to bundle JavaScript and ES6 modules to write modular JavaScript. 
+This is a Boilerplate for Webpack. Webpack is used to compile JavaScript modules. You can read more about [Webpack here](https://webpack.js.org/guides/getting-started/).
 
 ## Getting Started
 
 **Setup**
 
-git clone https://github.com/Mwapsam/To-Do-List.git
+git clone https://github.com/Mwapsam/Webpack-Boilerplate
 
 ```
 npm install
@@ -25,7 +25,7 @@ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mwapsam/Webpack-Boilerplate/issues).
 
 ## Show your support
 
